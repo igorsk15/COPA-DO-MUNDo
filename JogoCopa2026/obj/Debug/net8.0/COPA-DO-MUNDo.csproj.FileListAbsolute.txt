@@ -1,0 +1,15 @@
+C:\Users\Aluno_Noite\Desktop\trabalho copa\JogoCopa2026\obj\Debug\net8.0\COPA-DO-MUNDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno_Noite\Desktop\trabalho copa\JogoCopa2026\obj\Debug\net8.0\COPA-DO-MUNDo.AssemblyInfoInputs.cache
+C:\Users\Aluno_Noite\Desktop\trabalho copa\JogoCopa2026\obj\Debug\net8.0\COPA-DO-MUNDo.AssemblyInfo.cs
+C:\Users\Aluno_Noite\Desktop\trabalho copa\JogoCopa2026\obj\Debug\net8.0\COPA-DO-MUNDo.csproj.CoreCompileInputs.cache
+C:\Users\Aluno_Noite\Desktop\trabalho copa\JogoCopa2026\obj\Debug\net8.0\COPA-DO-MUNDo.sourcelink.json
+C:\Users\Aluno_Noite\Desktop\trabalho copa\JogoCopa2026\bin\Debug\net8.0\COPA-DO-MUNDo.exe
+C:\Users\Aluno_Noite\Desktop\trabalho copa\JogoCopa2026\bin\Debug\net8.0\COPA-DO-MUNDo.deps.json
+C:\Users\Aluno_Noite\Desktop\trabalho copa\JogoCopa2026\bin\Debug\net8.0\COPA-DO-MUNDo.runtimeconfig.json
+C:\Users\Aluno_Noite\Desktop\trabalho copa\JogoCopa2026\bin\Debug\net8.0\COPA-DO-MUNDo.dll
+C:\Users\Aluno_Noite\Desktop\trabalho copa\JogoCopa2026\bin\Debug\net8.0\COPA-DO-MUNDo.pdb
+C:\Users\Aluno_Noite\Desktop\trabalho copa\JogoCopa2026\obj\Debug\net8.0\COPA-DO-MUNDo.dll
+C:\Users\Aluno_Noite\Desktop\trabalho copa\JogoCopa2026\obj\Debug\net8.0\refint\COPA-DO-MUNDo.dll
+C:\Users\Aluno_Noite\Desktop\trabalho copa\JogoCopa2026\obj\Debug\net8.0\COPA-DO-MUNDo.pdb
+C:\Users\Aluno_Noite\Desktop\trabalho copa\JogoCopa2026\obj\Debug\net8.0\COPA-DO-MUNDo.genruntimeconfig.cache
+C:\Users\Aluno_Noite\Desktop\trabalho copa\JogoCopa2026\obj\Debug\net8.0\ref\COPA-DO-MUNDo.dll
