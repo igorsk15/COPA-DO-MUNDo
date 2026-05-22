@@ -1,1 +1,0 @@
-# COPA-DO-MUNDo
